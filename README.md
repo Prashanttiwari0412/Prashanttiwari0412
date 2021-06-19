@@ -11,7 +11,7 @@
 - 😄 Data Science Badges: [Credly](https://www.credly.com/users/prashant-tiwari.6279eb46)
 
 
-### I :heart: GitHub :octocat:
+### I :heart: GitHub :octocat: :heart
 [![trophy](https://github-profile-trophy.vercel.app/?username=Prashanttiwari0412)](https://github.com/ryo-ma/github-profile-trophy)
 ![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=Prashanttiwari0412&show_icons=true&line_height=32&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prashanttiwari0412&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
