@@ -1,11 +1,14 @@
-# Hi, I'm Prashant Tiwari 👋
-### I am Prashant Tiwari, a pre-final year pursuing B.tech in Computer Science Engineering at UPES, Dehradun. Secured AIR 1657 in GATE 2021 as a 3rd year student . 
-#### I'm <img alt="IBM" width="46px" src="https://images.mktw.net/im-242189?width=1280&size=1.77777778" /> IBM Data Science professional certified as well as <img alt="Google" width="46px" src="https://i.gadgets360cdn.com/large/google_full_pixabay_1517481845616.jpg" /> Google Data Analytics professional certified ! Looking forward to learn new things, implement them, and improve what i know !
+<h1 align="center">Hey, I'm Prashant Tiwari <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+
+   [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
+   ## :wave: About Me 
+#### Final year B.tech student in Computer Science Engineering at UPES, Dehradun. Secured AIR 1657 in GATE 2021 as a 3rd year student. Interest in CP with milestones as 6 :star: Hackerrank, 3 🌟 CodeChef, 350+ questions in GFG! <img alt="IBM" width="46px" src="https://images.mktw.net/im-242189?width=1280&size=1.77777778" /> IBM Data Science professional certified as well as <img alt="Google" width="46px" src="https://i.gadgets360cdn.com/large/google_full_pixabay_1517481845616.jpg" /> Google Data Analytics professional certified! Looking forward to learn new things, implement them, and improve what i know !
 <br>
 
-- 🔭 Currently growing my skillset in Data Science & ML
-- 👯 Created live Data Science projects using Streamlit and Flask.. Check it out in my repo!
-- 🤔 I’m looking to/for help with Data Science projects
+- 🔭 Currently growing my skillset in Competitive Programming, Data Science & ML
+- 👯 Created End to end Data Science projects using Streamlit and Flask.. Check it out in my repo!
+- 🤔 I’m looking to/for help with DS & Algorithms,Data Science projects
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/prashant-tiwari-310860183/)
 - 😄 Data Science Badges: [Credly](https://www.credly.com/users/prashant-tiwari.6279eb46)
@@ -19,28 +22,31 @@
 
 
 
-**Languages and Tools:**  
+## 🛠 &nbsp;Tech Stack
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/c/c.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/jupyter.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br><br>
-
-## Connect with me:
-
-<p align = "center">
+- 💻 &nbsp;
+  ![C](https://img.shields.io/badge/C-Language-blue)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![R](https://img.shields.io/badge/R-Language-blue)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![SQL](https://img.shields.io/badge/SQL-Language-brightgreen)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/prashant-tiwari-310860183/)
-<br>
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-Framework-brightgreen)
 
-<br>
 
-<br>
 
